@@ -22,8 +22,7 @@ import java.util.List;
 import java.util.UUID;
 
 /**
- * @author dalizu on 2018/11/10.
- * @author xujie xiaoweiwei 2019/10/25.
+ * @author dean 2019/10/25.
  * @version v1.1
  */
 public class HiveWriter extends Writer{

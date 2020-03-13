@@ -106,7 +106,7 @@ public  class HdfsHelper {
      * @param dir
      * @return
      * 拿到的是文件全路径，
-     * eg：hdfs://10.101.204.12:9000/user/hive/warehouse/writer.db/text/test.textfile
+     * 
      */
     public String[] hdfsDirList(String dir){
         Path path = new Path(dir);
