@@ -1,0 +1,6 @@
+{
+    "name": "hivewriter",
+    "class": "com.alibaba.datax.plugin.writer.hivewriter.HiveWriter",
+    "description": "简单插件，有待测试验证.  原理: TODO",
+    "developer": "lizu"
+}
